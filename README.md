@@ -13,6 +13,6 @@ In order to open this program, you need a 2019.4.14f1 or higher Unity installed 
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Shader-Demo)
+![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Shader-Demo) ![GitHub](https://img.shields.io/github/license/WW164/Shader-Demo)
 
 Copyright (c) 2021 Parinaz Mirbagheri
